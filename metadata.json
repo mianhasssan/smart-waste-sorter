@@ -1,0 +1,7 @@
+{
+  "name": "Eco-Sort Agent",
+  "description": "A fast, AI-powered waste classification tool for facility workers. Identifies Hazard, Compost, Recycle, and Trash items via camera or upload.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
