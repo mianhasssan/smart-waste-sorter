@@ -244,11 +244,14 @@ Open the URL shown in the terminal and begin testing.
 
 ## 👨‍💻 Author & Contact
 
-**Mian Muhammad Hassan**
-AI Engineer
+**Mian Muhammad Hassan**  
+AI Engineer  
 
-📧 Email: [mmh427726@gmail.com](mailto:mmh427726@gmail.com)
-🔗 GitHub: [https://github.com/mianhasssan](https://github.com/mianhasssan)
-🔗 LinkedIn: [https://www.linkedin.com/in/mianmuhammadhassan322](https://www.linkedin.com/in/mianmuhammadhassan322)
+📧 Email: mmh427726@gmail.com  
+
+🔗 GitHub: https://github.com/mianhasssan  
+
+🔗 LinkedIn: https://www.linkedin.com/in/mianmuhammadhassan322
+
 
 
